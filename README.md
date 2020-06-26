@@ -1,7 +1,10 @@
 # Hangman
 A game made developed by me, idea given by Saraswat Majumdar.
 
-Hangman.exe is the game you wished to play.
+The Hangman.py file consists of the primitive code that I did while trying to implement GUI using tkinter 
+for the first time.
+
+Hangman.exe is the game converted from the Python source file through py2exe.
 
 Please do not tamper the files along with Hangman.exe as they are a part of the GUI and the game.
 

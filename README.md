@@ -1,5 +1,5 @@
 # Hangman
-A game made developed by me, idea given by Saraswat Majumdar.
+A game made developed by me.
 
 The Hangman.py file consists of the primitive code that I did while trying to implement GUI using tkinter 
 for the first time.
